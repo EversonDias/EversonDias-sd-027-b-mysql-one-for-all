@@ -95,9 +95,9 @@ VALUE
     ('Under Pressure', 3, 2, 152),
     ('Como Nossos Pais', 4, 3, 105),
     ('O Medo de Amar é o Medo de Ser Livre', 5, 3, 207),
-    ('Samba emParis', 6, 4, 267),
+    ('Samba em Paris', 6, 4, 267),
     ("The Bard's Song", 7, 5, 244),
-    ('feeling Good', 8, 6, 100);
+    ('Feeling Good', 8, 6, 100);
 
 INSERT INTO user (name, age, plans_id, signature_date)
 VALUE
